@@ -74,6 +74,7 @@ body {
     border-style: none;
     color: white;
     font-size: 18px;
+    cursor: pointer;
 }
 
 .header__download--blue {
@@ -96,6 +97,7 @@ body {
     color: white;
     font-size: 18px;
     margin-top: 10px;
+    cursor: pointer;
 }
 
 .header__question:hover {
